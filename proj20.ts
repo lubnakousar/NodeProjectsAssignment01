@@ -2,4 +2,4 @@
 rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a 
 list containing these items*/
 var place: = String[] = ['iran','river-indus','UK','Japnese','Mount-Olympus']
-console.log(place)
+console.log(place);
