@@ -2,9 +2,8 @@
 and make a list that stores several examples. 
 Use your list to print a series of statements about these items, 
 such as “I would like to own a Honda motorcycle.”*/
-var myFavTransp:String[] = ['Cadillac','Nissan','BMW','Mercedes']
-let message23 = 'Hello '
-console.log(message23,friendName[0])
-console.log(message23,friendName[1])
-console.log(message23,friendName[2])
-console.log(message23,friendName[3])
+let myFavTransp:String[] = ['Cadillac','Nissan','BMW','Mercedes']
+console.log('I would like to own a ', myFavTransp[0])
+console.log('The separate rear storage of ', myFavTransp[1],'is its unique feature')
+console.log('There is a camera beneath the rear view mirror of ', myFavTransp[2])
+console.log('Split video screen in centraldisplay is unique in ', myFavTransp[3])
