@@ -1,7 +1,7 @@
 "use strict";
 /*Dinner Guests: Working with one of the programs from Exercises 14 through 18,
 print a message indicating the number of people you are inviting to dinner.*/
-var friendName = ['Komal', 'Tehseen', 'Aleena', 'Kubra'];
+var friendName = ['Komal', 'Tehseen', 'Aleena', 'Kubra', 'Aiza'];
 var messageP = 'Hi';
 var messagePst = 'you are cordially invited to attend the wedding ceremoney of my beloved son';
 console.log(messageP, friendName[0], messagePst);
