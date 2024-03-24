@@ -1,4 +1,3 @@
-"use strict";
 /**Stages of Life: Write an if-else chain that determines a person’s stage of life. Set a value for the variable age, and then:
 • If the person is less than 2 years old, print a message that the person is a baby.
 • If the person is at least 2 years old but less than 4, print a message that the person is a toddler.
@@ -24,3 +23,4 @@ if ((personAge) >= 20 && (personAge < 65))
 personAge = 70;
 if (personAge >= 65)
     console.log("The person is an elder");
+export {};

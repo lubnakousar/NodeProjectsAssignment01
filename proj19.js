@@ -1,4 +1,3 @@
-"use strict";
 /*Dinner Guests: Working with one of the programs from Exercises 14 through 18,
 print a message indicating the number of people you are inviting to dinner.*/
 var friendName = ['Komal', 'Tehseen', 'Aleena', 'Kubra', 'Aiza'];
@@ -49,3 +48,4 @@ list to make sure you actually have an empty list at the end of your program. */
 console.log('Hi', friendName.pop(), 'You are still invited');
 console.log('Hi', friendName.pop(), 'You are still invited');
 console.log(friendName);
+export {};

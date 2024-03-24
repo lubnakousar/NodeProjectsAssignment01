@@ -1,4 +1,3 @@
-"use strict";
 /*Changing Guest List: You just heard that one of your guests can’t make the dinner, so you need to send out a new set of invitations.
 You’ll have to think of someone else to invite.
 • Start with your program from Exercise 14. Add a print statement at the end of your program stating the name of the guest who can’t make it.
@@ -17,3 +16,4 @@ console.log(messageP, friendName[0], messagePst);
 console.log(messageP, friendName[1], messagePst);
 console.log(messageP, friendName[2], messagePst);
 console.log(messageP, friendName[3], messagePst);
+export {};

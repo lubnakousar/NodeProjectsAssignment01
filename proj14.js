@@ -1,4 +1,3 @@
-"use strict";
 /*Guest List: If you could invite anyone, living or deceased,
 to dinner, who would you invite? Make a list that includes at
 least three people you’d like to invite to dinner. Then use your
@@ -11,3 +10,4 @@ console.log(messagePre, friendName[0], messagePost);
 console.log(messagePre, friendName[1], messagePost);
 console.log(messagePre, friendName[2], messagePost);
 console.log(messagePre, friendName[3], messagePost);
+export {};

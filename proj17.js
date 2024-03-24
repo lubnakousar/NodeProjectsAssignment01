@@ -1,4 +1,3 @@
-"use strict";
 /*Shrinking Guest List: You just found out that your new dinner table
 won’t arrive in time for the dinner, and you have space for only two guests.
  */
@@ -46,3 +45,4 @@ list to make sure you actually have an empty list at the end of your program. */
 console.log('Hi', friendName.pop(), 'You are still invited');
 console.log('Hi', friendName.pop(), 'You are still invited');
 console.log(friendName);
+export {};

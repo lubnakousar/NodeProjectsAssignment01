@@ -1,4 +1,3 @@
-"use strict";
 /**Conditional Tests: Write a series of conditional tests. Print a statement
  * describing each test and your prediction for the results of each test.
  * Your code should look something like this:
@@ -32,3 +31,4 @@ console.log("Is color4 == 'white' ? I predict False.");
 console.log(color4 == 'white');
 console.log("Is color5 == 'cyan' ? I predict False.");
 console.log(color5 == 'cyan');
+export {};
