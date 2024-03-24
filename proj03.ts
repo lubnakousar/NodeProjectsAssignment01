@@ -4,3 +4,6 @@
 let pName2 = 'Lubna Kousar'
 console.log('The person\'s name in lowercase    : ', pName2.toLowerCase() )
 console.log('The person\'s name in upercase     : ', pName2.toUpperCase() )
+
+const toTitleCase = pName2.split(" ").map((l: string) => l[0].toUpperCase() + l.substr(1)).join(" ")
+console.log('The person\'s name in lowercase    : ', toTitleCase )

@@ -22,7 +22,7 @@ console.log(messageP, friendName[3], messagePst);
 console.log('Hey everyone, I found a bigger dinning table, I can invite more guests');
 friendName.unshift('Asma');
 friendName.push('Aizaz');
-friendName.splice(3, 0, 'Raed');
+friendName.splice((friendName.length / 2), 0, 'Raed');
 //'Nouman'.append(friendName)
 console.log(messageP, friendName[0], messagePst);
 console.log(messageP, friendName[1], messagePst);
